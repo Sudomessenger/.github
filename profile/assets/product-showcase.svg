@@ -1,0 +1,65 @@
+<svg width="1400" height="620" viewBox="0 0 1400 620" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1400" y2="620" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#070B14"/>
+      <stop offset="1" stop-color="#0B1220"/>
+    </linearGradient>
+    <linearGradient id="stroke" x1="0" y1="0" x2="1400" y2="620" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#37A2FF"/>
+      <stop offset="0.5" stop-color="#6366F1"/>
+      <stop offset="1" stop-color="#37A2FF"/>
+    </linearGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="22" stdDeviation="22" flood-color="#000000" flood-opacity="0.38"/>
+    </filter>
+  </defs>
+  <rect width="1400" height="620" rx="30" fill="url(#bg)"/>
+  <rect x="1.5" y="1.5" width="1397" height="617" rx="28.5" stroke="url(#stroke)" stroke-opacity="0.42" stroke-width="3"/>
+  <text x="80" y="86" fill="#7DD3FC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="900" letter-spacing="4">PRODUCT SURFACE</text>
+  <text x="80" y="142" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="54" font-weight="850" letter-spacing="-1.8">Everything Web3 needs, inside chat.</text>
+  <text x="80" y="184" fill="#94A3B8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20">The app is designed around natural conversations that can become payments, contracts, meetings, or settlements.</text>
+
+  <g transform="translate(80 250)" filter="url(#shadow)">
+    <rect width="282" height="250" rx="30" fill="#0F172A" stroke="#26344D"/>
+    <circle cx="54" cy="58" r="25" fill="#082F49"/>
+    <text x="54" y="66" text-anchor="middle" fill="#7DD3FC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="28">Æ</text>
+    <text x="34" y="112" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="850">Wallet identity</text>
+    <text x="34" y="152" fill="#94A3B8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16">Sign in with wallet, create</text>
+    <text x="34" y="178" fill="#94A3B8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16">profiles, and keep keys local.</text>
+    <rect x="34" y="206" width="126" height="28" rx="14" fill="#172554"/>
+    <text x="97" y="225" text-anchor="middle" fill="#BFDBFE" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="850">NON-CUSTODY</text>
+  </g>
+
+  <g transform="translate(392 250)" filter="url(#shadow)">
+    <rect width="282" height="250" rx="30" fill="#0F172A" stroke="#26344D"/>
+    <circle cx="54" cy="58" r="25" fill="#312E81"/>
+    <text x="54" y="66" text-anchor="middle" fill="#C4B5FD" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="28">&</text>
+    <text x="34" y="112" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="850">Encrypted chat</text>
+    <text x="34" y="152" fill="#94A3B8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16">Private peer chat, groups,</text>
+    <text x="34" y="178" fill="#94A3B8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16">channels, and broadcasts.</text>
+    <rect x="34" y="206" width="88" height="28" rx="14" fill="#312E81"/>
+    <text x="78" y="225" text-anchor="middle" fill="#DDD6FE" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="850">E2EE</text>
+  </g>
+
+  <g transform="translate(704 250)" filter="url(#shadow)">
+    <rect width="282" height="250" rx="30" fill="#0F172A" stroke="#26344D"/>
+    <circle cx="54" cy="58" r="25" fill="#064E3B"/>
+    <text x="54" y="66" text-anchor="middle" fill="#86EFAC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="28">¯</text>
+    <text x="34" y="112" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="850">Crypto in-line</text>
+    <text x="34" y="152" fill="#94A3B8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16">Send tokens, swap, bridge,</text>
+    <text x="34" y="178" fill="#94A3B8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16">and open dApps from chat.</text>
+    <rect x="34" y="206" width="110" height="28" rx="14" fill="#064E3B"/>
+    <text x="89" y="225" text-anchor="middle" fill="#BBF7D0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="850">ON-CHAIN</text>
+  </g>
+
+  <g transform="translate(1016 250)" filter="url(#shadow)">
+    <rect width="282" height="250" rx="30" fill="#0F172A" stroke="#26344D"/>
+    <circle cx="54" cy="58" r="25" fill="#3B0764"/>
+    <text x="54" y="66" text-anchor="middle" fill="#E9D5FF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="28">Ç</text>
+    <text x="34" y="112" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="850">Deal escrow</text>
+    <text x="34" y="152" fill="#94A3B8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16">Milestones, validators, and</text>
+    <text x="34" y="178" fill="#94A3B8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16">secure settlement flows.</text>
+    <rect x="34" y="206" width="128" height="28" rx="14" fill="#3B0764"/>
+    <text x="98" y="225" text-anchor="middle" fill="#F3E8FF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="850">VALIDATED</text>
+  </g>
+</svg>
