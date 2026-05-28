@@ -1,114 +1,36 @@
-<svg width="1400" height="760" viewBox="0 0 1400 760" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="1200" height="520" viewBox="0 0 1200 520" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1400" y2="760" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#05070D"/>
-      <stop offset="0.45" stop-color="#07111F"/>
-      <stop offset="1" stop-color="#10172A"/>
-    </linearGradient>
-    <linearGradient id="brand" x1="136" y1="116" x2="256" y2="236" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#37A2FF"/>
-      <stop offset="0.5" stop-color="#378ADD"/>
-      <stop offset="1" stop-color="#6366F1"/>
-    </linearGradient>
-    <linearGradient id="stroke" x1="0" y1="0" x2="1400" y2="760" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#37A2FF"/>
-      <stop offset="0.52" stop-color="#6366F1"/>
-      <stop offset="1" stop-color="#37A2FF"/>
-    </linearGradient>
-    <radialGradient id="glowA" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(990 126) rotate(90) scale(260)">
-      <stop stop-color="#37A2FF" stop-opacity="0.42"/>
-      <stop offset="1" stop-color="#37A2FF" stop-opacity="0"/>
-    </radialGradient>
-    <radialGradient id="glowB" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1180 560) rotate(90) scale(320)">
-      <stop stop-color="#6366F1" stop-opacity="0.36"/>
-      <stop offset="1" stop-color="#6366F1" stop-opacity="0"/>
-    </radialGradient>
-    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
-      <path d="M42 0H0V42" stroke="#94A3B8" stroke-opacity="0.055"/>
-    </pattern>
-    <filter id="soft" x="-30%" y="-30%" width="160%" height="160%">
-      <feGaussianBlur stdDeviation="18"/>
-    </filter>
-    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%">
-      <feDropShadow dx="0" dy="26" stdDeviation="26" flood-color="#000000" flood-opacity="0.45"/>
-    </filter>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="520" gradientUnits="userSpaceOnUse"><stop stop-color="#05070D"/><stop offset="0.55" stop-color="#0B1220"/><stop offset="1" stop-color="#10172A"/></linearGradient>
+    <linearGradient id="brand" x1="80" y1="70" x2="180" y2="170" gradientUnits="userSpaceOnUse"><stop stop-color="#37A2FF"/><stop offset="0.52" stop-color="#378ADD"/><stop offset="1" stop-color="#6366F1"/></linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(930 96) rotate(90) scale(280)"><stop stop-color="#37A2FF" stop-opacity="0.34"/><stop offset="1" stop-color="#37A2FF" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" stroke="#94A3B8" stroke-opacity="0.055"/></pattern>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="24" stdDeviation="24" flood-color="#000" flood-opacity="0.45"/></filter>
   </defs>
-
-  <rect width="1400" height="760" rx="34" fill="url(#bg)"/>
-  <rect width="1400" height="760" rx="34" fill="url(#grid)"/>
-  <rect x="1.5" y="1.5" width="1397" height="757" rx="32.5" stroke="url(#stroke)" stroke-opacity="0.5" stroke-width="3"/>
-  <circle cx="990" cy="126" r="260" fill="url(#glowA)"/>
-  <circle cx="1180" cy="560" r="320" fill="url(#glowB)"/>
-  <path d="M942 120C1036 64 1140 82 1208 162C1270 235 1288 344 1246 436" stroke="#37A2FF" stroke-opacity="0.16" stroke-width="2"/>
-  <path d="M834 604C932 520 1050 506 1176 584" stroke="#A5B4FC" stroke-opacity="0.18" stroke-width="2"/>
-
-  <g transform="translate(90 86)">
-    <rect x="0" y="0" width="132" height="132" rx="34" fill="url(#brand)" filter="url(#shadow)"/>
-    <path d="M43 84C48 90 56 93 66 93C79 93 88 86 88 76C88 66 80 62 69 60L62 59C56 58 53 56 53 52C53 48 57 45 64 45C72 45 77 48 81 53L89 45C84 39 75 35 64 35C51 35 42 42 42 53C42 64 50 68 62 70L69 72C76 73 80 75 80 79C80 83 76 86 68 86C59 86 53 83 48 77L43 84Z" fill="white"/>
-    <path d="M34 34H98" stroke="white" stroke-opacity="0.36" stroke-width="6" stroke-linecap="round"/>
-    <path d="M34 98H98" stroke="white" stroke-opacity="0.36" stroke-width="6" stroke-linecap="round"/>
+  <rect width="1200" height="520" rx="26" fill="url(#bg)"/>
+  <rect width="1200" height="520" rx="26" fill="url(#grid)"/>
+  <rect width="1200" height="520" rx="26" fill="url(#glow)"/>
+  <rect x="1" y="1" width="1198" height="518" rx="25" stroke="#378ADD" stroke-opacity="0.38" stroke-width="2"/>
+  <g transform="translate(76 64)" filter="url(#shadow)">
+    <rect width="106" height="106" rx="30" fill="url(#brand)"/>
+    <path d="M34 68C38 73 45 76 54 76C65 76 73 70 73 61C73 52 66 49 56 47L50 46C45 45 42 43 42 40C42 36 46 34 52 34C59 34 64 37 67 41L74 34C69 29 61 26 52 26C41 26 33 32 33 41C33 50 40 54 51 56L57 57C63 58 66 60 66 64C66 68 62 70 55 70C48 70 42 67 38 62L34 68Z" fill="white"/>
+    <path d="M28 28H78" stroke="white" stroke-opacity="0.35" stroke-width="5" stroke-linecap="round"/>
+    <path d="M28 78H78" stroke="white" stroke-opacity="0.35" stroke-width="5" stroke-linecap="round"/>
   </g>
-
-  <g transform="translate(90 262)">
-    <rect width="246" height="40" rx="20" fill="#111827" stroke="#25324A"/>
-    <circle cx="24" cy="20" r="6" fill="#22C55E"/>
-    <text x="44" y="25" fill="#D1FAE5" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">Mainnet-ready messenger</text>
+  <text x="76" y="238" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="72" font-weight="850" letter-spacing="-2.5">Sudo App</text>
+  <text x="76" y="288" fill="#7DD3FC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="26" font-weight="750">Non-custodial Web3 messenger</text>
+  <text x="76" y="338" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22">Wallet-native chat, voice and video, in-line crypto payments,</text>
+  <text x="76" y="372" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22">and validator-secured escrow in one private app.</text>
+  <g transform="translate(76 420)">
+    <rect width="118" height="42" rx="21" fill="#378ADD"/><text x="59" y="27" text-anchor="middle" fill="white" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="800">su.do</text>
+    <rect x="134" width="170" height="42" rx="21" fill="#6366F1"/><text x="219" y="27" text-anchor="middle" fill="white" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="800">sudochat.app</text>
+    <rect x="320" width="196" height="42" rx="21" fill="#0F172A" stroke="#334155"/><text x="418" y="27" text-anchor="middle" fill="#E2E8F0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="800">@sudomessenger</text>
   </g>
-
-  <text x="90" y="370" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="86" font-weight="800" letter-spacing="-3">Sudo App</text>
-  <text x="90" y="430" fill="#7DD3FC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="30" font-weight="700">Non-custodial Web3 messenger</text>
-  <text x="90" y="485" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24">Connect your wallet to chat, host voice and video meetings,</text>
-  <text x="90" y="523" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24">send crypto in-line, and settle deals through validator-secured escrow.</text>
-
-  <g transform="translate(90 580)">
-    <rect width="160" height="50" rx="25" fill="#378ADD"/>
-    <text x="80" y="32" text-anchor="middle" fill="white" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="800">su.do</text>
-    <rect x="176" width="218" height="50" rx="25" fill="#6366F1"/>
-    <text x="285" y="32" text-anchor="middle" fill="white" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="800">sudochat.app</text>
-    <rect x="410" width="238" height="50" rx="25" fill="#0F172A" stroke="#334155"/>
-    <text x="529" y="32" text-anchor="middle" fill="#E2E8F0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="800">@sudomessenger</text>
-  </g>
-
-  <g transform="translate(774 76)" filter="url(#shadow)">
-    <rect x="0" y="0" width="298" height="606" rx="42" fill="#0A0F1C" stroke="#26344D" stroke-width="2"/>
-    <rect x="18" y="18" width="262" height="570" rx="32" fill="#101827"/>
-    <rect x="42" y="52" width="100" height="12" rx="6" fill="#334155"/>
-    <rect x="42" y="92" width="174" height="42" rx="21" fill="#1E293B"/>
-    <text x="64" y="119" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">GM, wallet connected</text>
-    <rect x="96" y="152" width="142" height="42" rx="21" fill="#378ADD"/>
-    <text x="116" y="179" fill="white" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">Send 0.25 ETH</text>
-    <rect x="42" y="226" width="214" height="138" rx="24" fill="#0B1220" stroke="#26344D"/>
-    <text x="66" y="263" fill="#94A3B8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">Sudo Wallet</text>
-    <text x="66" y="306" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="34" font-weight="800">$12,480</text>
-    <rect x="66" y="326" width="74" height="24" rx="12" fill="#064E3B"/>
-    <text x="103" y="343" text-anchor="middle" fill="#A7F3D0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="800">+8.4%</text>
-    <rect x="42" y="392" width="214" height="66" rx="20" fill="#111827" stroke="#26344D"/>
-    <circle cx="76" cy="425" r="16" fill="#6366F1"/>
-    <text x="108" y="419" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="800">Escrow milestone</text>
-    <text x="108" y="439" fill="#94A3B8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12">2/3 validators signed</text>
-    <rect x="42" y="484" width="214" height="54" rx="18" fill="#172554" stroke="#1D4ED8"/>
-    <text x="149" y="517" text-anchor="middle" fill="#BFDBFE" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="800">Join secure call</text>
-  </g>
-
-  <g transform="translate(1038 180)" filter="url(#shadow)">
-    <rect width="246" height="126" rx="24" fill="#0F172A" stroke="#26344D"/>
-    <text x="28" y="42" fill="#94A3B8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="800">TRUST LAYER</text>
-    <text x="28" y="76" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="25" font-weight="800">Validators</text>
-    <text x="28" y="102" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14">Resolve deals on-chain</text>
-  </g>
-
-  <g transform="translate(1006 350)" filter="url(#shadow)">
-    <rect width="278" height="168" rx="26" fill="#0F172A" stroke="#26344D"/>
-    <text x="28" y="44" fill="#94A3B8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="800">PROTOCOL OPS</text>
-    <rect x="28" y="70" width="222" height="14" rx="7" fill="#1E293B"/>
-    <rect x="28" y="70" width="172" height="14" rx="7" fill="#37A2FF"/>
-    <rect x="28" y="102" width="222" height="14" rx="7" fill="#1E293B"/>
-    <rect x="28" y="102" width="132" height="14" rx="7" fill="#6366F1"/>
-    <rect x="28" y="134" width="222" height="14" rx="7" fill="#1E293B"/>
-    <rect x="28" y="134" width="198" height="14" rx="7" fill="#22C55E"/>
-  </g>
-
-  <g transform="translate(84 682)">
-    <text x="0" y="0" fill="#64748B" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="800" letter-spacing="2">WALLET IDENTITY � ENCRYPTED CHAT � CRYPTO PAYMENTS � ESCROW � VOICE &amp; VIDEO � SUDO MINING</text>
+  <g transform="translate(770 86)" filter="url(#shadow)">
+    <rect width="296" height="352" rx="38" fill="#0A0F1C" stroke="#26344D" stroke-width="2"/>
+    <rect x="24" y="28" width="248" height="296" rx="30" fill="#101827"/>
+    <rect x="48" y="66" width="146" height="38" rx="19" fill="#1E293B"/><text x="66" y="90" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="750">Wallet connected</text>
+    <rect x="92" y="122" width="132" height="38" rx="19" fill="#378ADD"/><text x="111" y="146" fill="white" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="750">Send 0.25 ETH</text>
+    <rect x="48" y="188" width="200" height="72" rx="20" fill="#0B1220" stroke="#26344D"/><text x="70" y="218" fill="#94A3B8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="800">ESCROW</text><text x="70" y="244" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="800">2 of 3 validators signed</text>
+    <rect x="48" y="282" width="200" height="42" rx="21" fill="#172554"/><text x="148" y="308" text-anchor="middle" fill="#BFDBFE" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="800">Join secure call</text>
   </g>
 </svg>
