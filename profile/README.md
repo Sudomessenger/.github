@@ -4,34 +4,30 @@
 
 <br />
 
-[**Website**](https://su.do) &nbsp;|&nbsp; [**App**](https://sudochat.app) &nbsp;|&nbsp; [**Protocol Console**](https://protocol.sudochat.app) &nbsp;|&nbsp; [**X / Twitter**](https://x.com/sudomessenger) &nbsp;|&nbsp; [**All Links**](https://su.do/sudomessenger)
+### [Website](https://su.do) &nbsp;·&nbsp; [App](https://sudochat.app) &nbsp;·&nbsp; [Protocol Console](https://protocol.sudochat.app) &nbsp;·&nbsp; [X / Twitter](https://x.com/sudomessenger) &nbsp;·&nbsp; [All Links](https://su.do/sudomessenger)
 
 </div>
 
 <br />
 
-<img src="./assets/showcase.svg" alt="Sudo product surface" width="100%" />
+<img src="./assets/stats.svg" alt="Sudo at a glance - 5 repositories, 100% non-custodial, 590+ wallets supported, 11 validators live" width="100%" />
 
 <br />
 
-<img src="./assets/repos-clean.svg" alt="Sudo repositories by product layer" width="100%" />
+<img src="./assets/features.svg" alt="Six product surfaces - wallet, encrypted chat, crypto in-line, validator escrow, voice and video, Web3 bots" width="100%" />
 
 <br />
 
-<img src="./assets/stack-clean.svg" alt="Sudo technology stack" width="100%" />
+<img src="./assets/flow.svg" alt="Three step flow - chat, pay, settle" width="100%" />
 
 <br />
 
-<div align="center">
+<img src="./assets/ecosystem.svg" alt="Sudo engineering map - sudo_app, protocol, website, docs, whitepaper" width="100%" />
 
-<img src="./assets/sudo-logo.svg" alt="Sudo logo" width="76" height="76" />
+<br />
 
-<br /><br />
+<img src="./assets/stack.svg" alt="Sudo technology stack across mobile, web, backend and infrastructure" width="100%" />
 
-**Sudo** - messaging, wallet, and on-chain trust in one non-custodial app.
+<br />
 
-<br /><br />
-
-[**su.do**](https://su.do) &nbsp;|&nbsp; [**sudochat.app**](https://sudochat.app) &nbsp;|&nbsp; [**@sudomessenger**](https://x.com/sudomessenger) &nbsp;|&nbsp; [**legal@sudochat.app**](mailto:legal@sudochat.app)
-
-</div>
+<img src="./assets/footer.svg" alt="Build with Sudo - su.do, sudochat.app, @sudomessenger, legal@sudochat.app" width="100%" />
