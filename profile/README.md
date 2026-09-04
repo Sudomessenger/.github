@@ -19,41 +19,33 @@
 </b>
 </div>
 
-- ***Simple*** *Sudo is so simple you already know how to use it.*
+- **Simple** *Sudo is so simple you already know how to use it.*
 
-- ***Private*** *Messages are end-to-end encrypted. No phone number or email required.*
+- **Private** *End-to-end encrypted with the Signal Protocol. No phone number or email required.*
 
-- ***Non-custodial*** *Your wallet is your identity. Sudo never holds your keys.*
+- **Non-custodial** *Your wallet is your identity, synced across iOS, Android, desktop, and web. Sudo never holds your keys.*
 
-- ***Synced*** *One wallet identity across iOS, Android, desktop, and web.*
+- **Smart** *AI Explorer answers wallet, token, and transaction questions in plain language — in your language.*
 
-- ***Fast*** *Chat, send crypto in-line, and hop on voice or video in one app.*
+- **Safe** *Audit Scan flags honeypots, buy/sell tax, mintable supply, and hidden owners before you sign.*
 
-- ***Powerful*** *Groups, channels, mini apps, escrow, and 590+ wallets.*
+- **Traceable** *Watcher follows funds hop by hop until they land on an exchange.*
 
-- ***Open*** *Bot SDKs for Node, Python, Go, Rust, and Java — free to build with.*
+- **Onchain** *Send crypto, split it across a group, and settle the deal — all inside the chat.*
 
-- ***Secure*** *Signal Protocol for chat. Independent validators for settlement.*
+- **Multichain** *16+ networks, plus swap, bridge, and fiat on/off-ramp in one place.*
 
-- ***Onchain*** *Send crypto in a conversation the way you'd send a photo.*
+- **Multilingual** *Everyone reads in their own language. 25 options, Hinglish included.*
 
-- ***Smart*** *AI Explorer answers wallet, token, and transaction questions in plain language, in your language.*
+- **Trustless** *Escrow settled by staked arbitrators — randomly assigned, majority vote.*
 
-- ***Safe*** *Audit Scan flags honeypots, buy/sell tax, mintable supply, and hidden owners before you sign.*
+- **Ownable** *Token-gate a community or charge a recurring on-chain subscription. Your contract, your revenue.*
 
-- ***Traceable*** *Watcher follows funds hop by hop until they land on an exchange.*
+- **Extensible** *Mini apps, App Center, and a full DApp browser with your wallet already connected.*
 
-- ***Multilingual*** *Everyone reads in their own language. 25 options, Hinglish included.*
+- **Fast** *Chat, pay, and hop on voice or video without leaving the app.*
 
-- ***Trustless*** *Escrow settled by staked arbitrators, randomly assigned, majority vote.*
-
-- ***Multichain*** *16+ networks, plus swap, bridge, and fiat on/off-ramp in one place.*
-
-- ***Rewarding*** *Earn with Lido, Polygon, BNB Chain, or the Sudo Validator.*
-
-- ***Ownable*** *Token-gate a community or charge a recurring on-chain subscription. Your contract, your revenue.*
-
-- ***Extensible*** *Mini apps, App Center, and a full DApp browser with your wallet already connected.*
+- **Open** *Bot SDKs for Node, Python, Go, Rust, and Java — free to build with.*
 
  <details>
 <summary><b>iPhone Screenshots</b></summary>
