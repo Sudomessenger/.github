@@ -6,7 +6,7 @@
 
 <a href="https://sudochat.app">Sudo</a> • <a href="https://su.do">Website</a> • <a href="https://sudochat.app/download">Apps</a>
 
-<a href="https://github.com/Sudomessenger/sudo-mini-app-docs">Docs</a> • <a href="https://github.com/Sudomessenger/Validator">Validator</a> • <a href="https://github.com/Sudomessenger/bot-sdks">Bots</a> • <a href="mailto:info@sudochat.app">Support</a>
+<a href="https://github.com/Sudomessenger/sudo-mini-app-docs">Docs</a> • <a href="https://github.com/Sudomessenger/bot-sdks">Bots</a> • <a href="mailto:info@sudochat.app">Support</a>
 
 <br>
 
