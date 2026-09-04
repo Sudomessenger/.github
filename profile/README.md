@@ -37,6 +37,24 @@
 
 - ***Onchain*** *Send crypto in a conversation the way you'd send a photo.*
 
+- ***Smart*** *AI Explorer answers wallet, token, and transaction questions in plain language, in your language.*
+
+- ***Safe*** *Audit Scan flags honeypots, buy/sell tax, mintable supply, and hidden owners before you sign.*
+
+- ***Traceable*** *Watcher follows funds hop by hop until they land on an exchange.*
+
+- ***Multilingual*** *Everyone reads in their own language. 25 options, Hinglish included.*
+
+- ***Trustless*** *Escrow settled by staked arbitrators, randomly assigned, majority vote.*
+
+- ***Multichain*** *16+ networks, plus swap, bridge, and fiat on/off-ramp in one place.*
+
+- ***Rewarding*** *Earn with Lido, Polygon, BNB Chain, or the Sudo Validator.*
+
+- ***Ownable*** *Token-gate a community or charge a recurring on-chain subscription. Your contract, your revenue.*
+
+- ***Extensible*** *Mini apps, App Center, and a full DApp browser with your wallet already connected.*
+
  <details>
 <summary><b>iPhone Screenshots</b></summary>
  <div align="center">
