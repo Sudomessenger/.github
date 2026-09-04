@@ -1,6 +1,6 @@
 <div align="center">
 
-[<img src="./assets/sudo-logo.png" width="100px" >](https://github.com/Sudomessenger)
+[<img src="./assets/logo.png" width="100px" >](https://github.com/Sudomessenger)
 
 <b>
 
